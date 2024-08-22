@@ -41,8 +41,8 @@ const Footer = () => {
       </ul>
     </div>
 
-    <div className="w-full sm:w-1/2 lg:w-1/4 p-2">
-      <div className="mb-8 h-50 sm:mb-12 mt-6 sm:mt-8 lg:mt-14 overflow-y-scroll no-scrollbar">
+    <div className="w-full  sm:w-1/2  lg:w-1/4  p-2">
+      <div className="mb-8 h-25 sm:mb-8 mt-20 lg:mt-14 overflow-y-scroll no-scrollbar">
         <h4 className="text-lg sm:text-xl mb-2 sm:mb-4 pb-2 border-b border-gray-700 text-center sm:text-left text-white">
           Birthdays
         </h4>

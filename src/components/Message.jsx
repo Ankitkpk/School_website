@@ -12,7 +12,7 @@ const Message = () => {
       <div className="grid grid-cols-1 lg:grid-cols-3 w-full xl:w-[90%]  bg-black/60 rounded-3xl text-white mx-auto p-5 mb-28">
         {/* founder/priciple */}
         <div className=" col-span-1 p-5 ">
-          <div className="flex flex-col gap-4 ">
+          <div className="flex flex-col items-center  gap-4 ">
             <button
               className= {`px-5 py-3  : text-start rounded-xl ${value=== "Founder"? "bg-slate-800": "bg-transparent"} `}
               onClick={() => setValue("Founder")}
